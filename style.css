@@ -1,3 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-color: #10172a;
+}
+
 h1.name {
   /* CSS properties here */
   color: red;
